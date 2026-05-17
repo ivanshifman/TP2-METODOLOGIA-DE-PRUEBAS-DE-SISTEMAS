@@ -1,0 +1,11 @@
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\bin\Debug\net10.0\GestionProductos.Core.deps.json
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\bin\Debug\net10.0\GestionProductos.Core.dll
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\bin\Debug\net10.0\GestionProductos.Core.pdb
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\GestionProductos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\GestionProductos.Core.AssemblyInfoInputs.cache
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\GestionProductos.Core.AssemblyInfo.cs
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\GestionProductos.Core.csproj.CoreCompileInputs.cache
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\GestionProductos.Core.dll
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\refint\GestionProductos.Core.dll
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\GestionProductos.Core.pdb
+C:\Users\ivane\OneDrive\Escritorio\TP2-METODOLOGIA-DE-ESTUDIO\GestionProductos.Core\obj\Debug\net10.0\ref\GestionProductos.Core.dll

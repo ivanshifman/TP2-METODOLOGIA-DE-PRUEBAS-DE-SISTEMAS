@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestionProductos.Core/GestionProductos.Core.csproj" />
+  <Project Path="TP2-METODOLOGIA-DE-ESTUDIO.Tests/TP2-METODOLOGIA-DE-ESTUDIO.Tests.csproj" />
+</Solution>
