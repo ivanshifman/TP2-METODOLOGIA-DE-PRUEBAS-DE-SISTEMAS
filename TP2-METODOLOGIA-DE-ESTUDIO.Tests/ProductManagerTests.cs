@@ -65,6 +65,7 @@ public class ProductManagerTests
         Assert.That(resultado3!.Id, Is.EqualTo(3));
     }
 
+    // ─── 4. CalculateTotalPrice – categoría Electrónica (+10%) ───────────────
     [Test]
     public void CalculateTotalPrice_CategoriaElectronica_AplicaImpuesto10PorCiento()
     {
@@ -95,13 +96,10 @@ public class ProductManagerTests
     [Test]
     public void FindProductByName_NombreInexistente_DevuelveNull()
     {
-        // Arrange
         _manager.AddProduct(_electronico);
 
-        // Act
         var resultado = _manager.FindProductByName("ProductoQueNoExiste");
 
-        // Assert
         Assert.That(resultado, Is.Null);
     }
 }
